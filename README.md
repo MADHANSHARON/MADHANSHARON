@@ -8,7 +8,7 @@
 - 📚 **Learning:** Enhancing skills and exploring tech.
 - 🌟 **Interests:** Problem-solving and coding challenges.
 - 🌐 **Tech Enthusiast:** Exploring the latest trends.
-- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/madhansharonv/) | [Portfolio]() | [Email](#)
+- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/madhansharonv/) | [Portfolio](https://madhansharon.github.io/portfolio/) 
 
 
 ---
