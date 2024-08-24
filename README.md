@@ -8,13 +8,13 @@
 - 📚 **Learning:** Enhancing skills and exploring tech.
 - 🌟 **Interests:** Problem-solving and coding challenges.
 - 🌐 **Tech Enthusiast:** Exploring the latest trends.
-- 🔗 **Connect:** [LinkedIn](#) | [Portfolio](#) | [Email](#)
+- 🔗 **Connect:** [LinkedIn](https://www.linkedin.com/in/madhansharonv/) | [Portfolio]() | [Email](#)
 
 
 ---
 ### I Code In
 <img width="50" height="50" src="https://img.icons8.com/color/50/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/c-plus-plus-logo.png" alt="c-plus-plus-logo"/><img width="50" height="50" src="https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/html-5.png" alt="html-5"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/><img width="50" height="50" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/>
 ---
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Madhan_sharon_v?theme=dark&font=PT%20Sans%20Caption&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Madhan_sharon_v?theme=dark&font=PT%20Sans%20Caption&ext=heatmap)
 ---
-[![Madhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADHANSHARON)](https://github.com/MADHANSHARON/github-readme-stats)
+[![Madhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADHANSHARON&show_icons=true)](https://github.com/MADHANSHARON/github-readme-stats&show_icons=true)
