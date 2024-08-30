@@ -18,14 +18,14 @@ I’m Madhan, a Computer Science Engineering student with a deep interest in sof
 
   <img width="25" height="25" src="https://img.icons8.com/color/50/javascript--v1.png" alt="javascript--v1"/> **JavaScript:** Building interactive and dynamic web pages.
 
-### Development <img width="25" height="25" src="https://img.icons8.com/ultraviolet/40/code.png" alt="code"/>
+#### Development <img width="25" height="25" src="https://img.icons8.com/ultraviolet/40/code.png" alt="code"/>
 <img width="25" height="25" src="https://img.icons8.com/color/50/html-5--v2.png" alt="html-5--v2"/> **HTML:** Creating structured and styled web pages.
 
 <img width="25" height="25" src="https://img.icons8.com/fluency/50/css3.png" alt="css3"/> **CSS:** Styling the websites
 
 <img width="25" height="25" src="https://img.icons8.com/fluency/50/javascript.png" alt="javascript"/> **JavaScript:** Enhancing web functionality with dynamic content.
 
-### Tools & Technologies <img width="25" height="25" src="https://img.icons8.com/office/40/maintenance.png" alt="maintenance"/>
+#### Tools & Technologies <img width="25" height="25" src="https://img.icons8.com/office/40/maintenance.png" alt="maintenance"/>
 <img width="25" height="25" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/> **Version Control:** Git and GitHub for efficient code management and collaboration.
 
 <img width="25" height="25" src="https://img.icons8.com/color/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> **IDEs:** Visual Studio Code for writing, testing, and debugging code.
