@@ -32,12 +32,12 @@ I’m Madhan, a Computer Science Engineering student with a deep interest in sof
 
 ---
 
-## Learning and Development
+## Learning and Development <img width="25" height="25" src="https://img.icons8.com/office/40/learning.png" alt="learning"/>
 I am committed to expanding my knowledge in software development, particularly in developing technology. I am continuously working on projects that challenge and enhance my coding abilities.
 
 ---
 
-## Connect with Me
+## Connect with Me <img width="25" height="25" src="https://img.icons8.com/color/50/contact-card.png" alt="contact-card"/>
 - 📧 **Email:** [madhanag2017@gmail.com](madhanag2017@gmail.com)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/madhansharonv/
 - 🌐 **Portfolio:** https://madhansharon.github.io/portfolio/
