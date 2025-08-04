@@ -40,7 +40,7 @@ I am committed to expanding my knowledge in software development, particularly i
 ## Connect with Me <img width="25" height="25" src="https://img.icons8.com/color/50/contact-card.png" alt="contact-card"/>
 - 📧 **Email:** [madhanag2017@gmail.com](madhanag2017@gmail.com)
 - 💼 **LinkedIn:** https://www.linkedin.com/in/madhansharonv/
-- 🌐 **Portfolio:** https://madhansharon.github.io/portfolio/
+- 🌐 **Portfolio:** https://madhansharon.github.io/my_portfolio/
 
 ---
 ## Leetcode Stats
